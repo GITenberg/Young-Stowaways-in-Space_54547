@@ -1,10 +1,13 @@
 _repo: Young-Stowaways-in-Space_54547
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: McCann, Gerald
     gutenberg_agent_id: '37174'
     url: http://www.gutenberg.org/2009/agents/37174
+covers:
+- cover_type: archival
+  image_path: 54547-h/images/cover.jpg
 creator:
   author:
     agent_name: Elam, Richard M. (Richard Mace)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '47380'
     url: http://www.gutenberg.org/2009/agents/47380
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54547#Young-Stowaways-in-Space
 gutenberg_issued: '2017-04-14'
 gutenberg_type: Text
 identifiers:
